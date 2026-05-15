@@ -173,9 +173,6 @@ This project helped learn:
 
 Arnab Roy
 
-GitHub:
-https://github.com/YOUR_USERNAME
-
 ---
 
 # License
