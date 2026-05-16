@@ -78,6 +78,10 @@ cd mobile-client
 npm install
 npm run dev
 ```
+## Screenshot
+#Desktop App: <img width="637" height="1008" alt="image" src="https://github.com/user-attachments/assets/fb183a77-a601-4b0d-95c7-5175879ee369" />
+#Mobile : <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/24955b7b-21ae-4072-add9-0969c6e8ad1d" />
+
 
 ---
 
